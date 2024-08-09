@@ -78,8 +78,7 @@ deal(player, dealer)
 while gameIn != 'q':
 
     
-            
-
+    
 
 
 
